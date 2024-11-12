@@ -1,2 +1,2 @@
 # Notes
-notes on some interesting results I encountered 
+notes on some interesting results We encountered 
